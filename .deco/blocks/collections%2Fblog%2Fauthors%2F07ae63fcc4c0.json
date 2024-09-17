@@ -2,10 +2,10 @@
   "name": "collections/blog/authors/07ae63fcc4c0",
   "__resolveType": "blog/loaders/Author.ts",
   "author": {
-    "name": "Name of the Author",
-    "email": "author@deco.cx",
-    "jobTitle": "Author",
-    "company": "deco.cx",
-    "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1527/7286de42-e9c5-4fcb-ae8b-b992eea4b78e"
+    "name": "Rafael Rossini",
+    "email": "rafael@r85.com.br",
+    "jobTitle": "UX/UI Designer",
+    "company": "R85",
+    "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/r85/510f12ae-233e-41f8-a6ee-480351776100/perfil-rcr.jpg"
   }
 }
